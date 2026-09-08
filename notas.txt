@@ -1,0 +1,9 @@
+Possíveis melhorias:
+
+- Previsão de erros
+- Enviar automaticamente via e-mail OK
+- Total indepedencia de pixels
+- Velocidade
+- Rotas mais curtas de verificação
+- Identiicação automática de navegador
+- Enviar automaticamente via e-mail
